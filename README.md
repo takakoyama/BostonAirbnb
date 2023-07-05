@@ -12,3 +12,4 @@ First, data was cleaned as follows:
 
 Then, I first used a simple linear model. But unfortunately, the model did not fit well to the data.
 I employed XGBoost regressor and obtained reasonable results. 
+I have created a Medium blog post on this analysis. https://medium.com/@takahiko.koyama/creating-a-model-to-predict-price-of-airbnb-properties-in-boston-d140b3ed6f4
